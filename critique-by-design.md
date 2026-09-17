@@ -65,7 +65,11 @@ Based on this feedback, I plan to make the following changes in my final redesig
 
 ## Step five: build the solution
 
-_(in progress)_
+For my final redesign, I built an interactive line chart in Datawrapper tracking BYD, Tesla, and Volkswagen's global EV market share by quarter, with "Others" kept as a labeled reference line rather than removed, so the total market composition stays visible without dominating the story. The chart directly addresses the gaps found in Step Four: the title and subtitle now define what "market share" means and which market it covers (global passenger EV sales by unit volume), the "Others" line is labeled explicitly instead of left as an unexplained dotted line, and each brand's line uses its own brand-associated color instead of arbitrary defaults. I also added an annotation marking where BYD's line crosses above Tesla's, since that crossover was the core story hidden in the original table and neither interviewee would have been able to find it without deliberate effort in the original static version.
+
+Compared to the original percentage table, this version does the perceptual work the source completely lacked: a viewer can see the trend and the crossover in seconds rather than tracing eight columns of numbers by hand. It's not a complete fix, the "add more charts" feedback from Interview 2 is one I chose not to act on, since I decided a single focused chart told this specific story more clearly than a multi-chart dashboard would have, but it resolves the specific comprehension gaps that came up in testing.
+
+<iframe title="Global EV market share by manufacturer, Q2 2021–Q1 2023" aria-label="Line chart" id="datawrapper-chart-cUdtG" src="https://datawrapper.dwcdn.net/cUdtG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
 
 ## References
 
@@ -74,5 +78,11 @@ Few, Stephen. "Data Visualization Effectiveness Profile," 2017. http://www.perce
 Counterpoint Research. "Global Passenger Electric Vehicle Market Share: By Quarter." March 2023. https://www.counterpointresearch.com/wp-content/uploads/2023/03/Global-Passenger-Electric-Vehicle-Market-Share.pdf
 
 ## AI acknowledgements
+I used AI this assignment for the following:
 
-_(fill in once the full assignment is done, so it covers everything in one place)_<img width="801" height="363" alt="Screenshot 2026-09-17 at 3 51 37 PM" src="https://github.com/user-attachments/assets/5e43bcc9-0fc0-4afb-af79-dc2e769b23c0" />
+- Searching MakeoverMonday's archive to identify a suitable pre-April-2023 challenge, and researching the original source data behind the challenge (Counterpoint Research's EV market share reports)
+- Explaining Stephen Few's Data Visualization Effectiveness Profile criteria before I completed the Google Form and to study and understand it better 
+- Discussing my critique scores and reasoning as I worked through the form
+- Brainstorming the sketch to be used 
+
+All data, critique scores, sketch content, interview responses, and design decisions are my own. AI was used for research assistance, and help articulating my reasoning in writing, not for generating the underlying analysis or feedback itself.
