@@ -70,7 +70,8 @@ For my final redesign, I built an interactive line chart in Datawrapper tracking
 Compared to the original percentage table, this version does the perceptual work the source completely lacked: a viewer can see the trend and the crossover in seconds rather than tracing eight columns of numbers by hand. It's not a complete fix, the "add more charts" feedback from Interview 2 is one I chose not to act on, since I decided a single focused chart told this specific story more clearly than a multi-chart dashboard would have, but it resolves the specific comprehension gaps that came up in testing.
 
 
-<iframe title="Global EV market share by manufacturer, Q2 2021–Q1 2023" aria-label="Line chart" id="datawrapper-chart-cUdtG" src="https://datawrapper.dwcdn.net/cUdtG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
+<iframe title="Global EV market share by manufacturer, Q2 2021–Q1 2023" aria-label="Line chart" id="datawrapper-chart-cUdtG" src="https://datawrapper.dwcdn.net/cUdtG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410" data-external="1"></iframe>
+<script type="text/javascript">(function(){function e(){window.addEventListener('message',function(e){if(e.data['datawrapper-height']!==void 0){var t=document.querySelectorAll('iframe');for(var n in e.data['datawrapper-height'])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data['datawrapper-height'][n]+'px';i.style.height=a}}})}e()})();</script>
 
 
 ## References
