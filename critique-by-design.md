@@ -1,3 +1,4 @@
+<img width="757" height="500" alt="Screenshot 2026-09-17 at 4 28 18 PM" src="https://github.com/user-attachments/assets/bce044cf-233e-4ee3-b9c7-04dc2136a0b0" />
 # Critique & Redesign: Global EV Market Share
 
 ## Step one: the visualization
