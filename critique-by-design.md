@@ -30,7 +30,38 @@ One data decision worth noting: I considered adding Geely as a fourth named bran
 
 ## Step four: Test the solution
 
-_(in progress)_
+I showed the sketch to two classmates cold, without explaining it first, and asked the questions below.
+
+Questions asked:
+
+- Can you tell me what you think this is?
+- Can you describe to me what this is telling you?
+- Is there anything you find surprising or confusing?
+- Who do you think is the intended audience for this?
+- Is there anything you would change or do differently?
+
+Results:
+
+| Question | Interview 1 (classmate) | Interview 2 (classmate) |
+|----------|-------------|-------------|
+| What do you think this is? | How well automobile companies are doing / the rise of EV companies | The progression of companies over time |
+| What is it telling you? | Confirmed time series was the right chart choice for this data | Whether buyers should opt for EV cars |
+| Anything surprising or confusing? | Colors aren't tied to any inherent meaning; not enough explanation of what "market share" means or which market it covers | Meaning of the dotted line (Others) at the top was unclear |
+| Who is the intended audience? | Investors | Car buyers |
+| Anything you would change? | Not directly addressed | Add more charts |
+
+Synthesis:
+
+Both interviewees read the chart as being about EV manufacturer performance over time, which confirms the redesign succeeds at conveying the core trend that the original table hid. But a mismatch emerged from Interview 2 specifically: they named car buyers as the audience and read the data as answering whether buyers should opt for EVs. Market-share-by-manufacturer data does not actually contain any information relevant to a purchase decision (no price, reliability, range, or safety data), so a viewer walking away thinking it answers that question would be drawing a conclusion the chart cannot support. Interview 1's investor framing fits the underlying data much better.
+
+Combined with the missing-definition and unclear-line-labeling feedback from Interview 1 and 2, the through-line is that the chart needs to more clearly signal its own scope, both to prevent readers from importing questions it doesn't answer, and to close the terminology gaps around what "market share" means and what the dotted line represents.
+
+Based on this feedback, I plan to make the following changes in my final redesign:
+
+1. Add a title or subtitle defining "market share" and its scope, framed toward an investor/analyst audience rather than leaving it open to a buyer-decision reading
+2. Label or caption the "Others" line directly instead of leaving it as an unexplained dotted line
+3. Consider whether the "add more charts" note points at something specific, like a companion chart showing total EV sales volume alongside share percentages, or whether one focused chart is the right scope for this story
+4. Use brand-consistent colors for BYD, Tesla, and Volkswagen instead of arbitrary line colors
 
 ## Step five: build the solution
 
