@@ -1,4 +1,3 @@
-<img width="757" height="500" alt="Screenshot 2026-09-17 at 4 28 18 PM" src="https://github.com/user-attachments/assets/bce044cf-233e-4ee3-b9c7-04dc2136a0b0" />
 # Critique & Redesign: Global EV Market Share
 
 ## Step one: the visualization
@@ -73,6 +72,8 @@ Compared to the original percentage table, this version does the perceptual work
 
 <iframe title="Global EV market share by manufacturer, Q2 2021–Q1 2023" aria-label="Line chart" id="datawrapper-chart-cUdtG" src="https://datawrapper.dwcdn.net/cUdtG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410" data-external="1"></iframe>
 <script type="text/javascript">(function(){function e(){window.addEventListener('message',function(e){if(e.data['datawrapper-height']!==void 0){var t=document.querySelectorAll('iframe');for(var n in e.data['datawrapper-height'])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data['datawrapper-height'][n]+'px';i.style.height=a}}})}e()})();</script>
+
+<img width="757" height="500" alt="Screenshot 2026-09-17 at 4 28 18 PM" src="https://github.com/user-attachments/assets/bce044cf-233e-4ee3-b9c7-04dc2136a0b0" />
 
 
 ## References
