@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://kirtipalve.github.io/kirti-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
@@ -24,10 +24,6 @@ Following the story-structure ideas from *Good Charts* (Ch. 8), this is a three-
 - **Rising action:** the before/after comparison panels (genre mix, top artists).
 - **Climax:** the weekly crossover chart, showing the exact point EDM overtook mellow genres, annotated with what was happening in my life at that time.
 - **Resolution:** a short, honest reflection on why I think this was a deliberate mood lever rather than a coincidence.
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
-Text here...
 
 ## Initial sketches
 
