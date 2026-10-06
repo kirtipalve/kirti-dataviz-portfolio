@@ -2,15 +2,24 @@
 
 # Wireframes / storyboards
 
-Using my sketches from Part I, I've developed a narrative arc that follows my Spotify listening journey from moving to the US. The story moves through three acts:
+**Topic change:** My Part I proposal was a personal Spotify listening story. For Part II I switched to the colors of noise (white, pink, brown) and focus because [your reason, one sentence].
 
-1. **Before the move:** Mellow, introspective music (Radiohead, Indian hip-hop, alt-rock)
-2. **The transition:** Gradual shift as I process homesickness and cultural displacement
-3. **After adaptation:** High-energy EDM as a deliberate coping mechanism and new identity expression
+**One-sentence summary:** [Draft to edit: Brown noise is everywhere as a focus aid, but the best review of the research found a small benefit only for people with ADHD symptoms, a slight cost for everyone else, and no studies of brown noise at all.]
 
-My visualizations will show this shift through time-based data (listening patterns by month/year), genre distribution changes, and energy level progression. The key story beat is connecting the emotional experience of moving with the data evidence in my listening habits.
+**Storyboard** (draft Shorthand story: [link])
 
-[Draft Shorthand story coming in Part III]
+| # | Section | What the reader sees | Visual or sound |
+|---|---|---|---|
+| 1 | Hook | The question: does "brown noise for focus" actually work? | Headline, full-width image |
+| 2 | Meet the colors | What white, pink and brown noise are | Three short clips I generate, plus a sketch of their spectra |
+| 3 | What the research found | A small average benefit in ADHD or high-symptom groups | Dot plot with confidence interval |
+| 4 | The catch | A slight cost in non-ADHD groups | Two-group comparison chart |
+| 5 | The gap | 12 white, 1 pink, 0 brown noise studies | Bar chart with an empty brown bar, and a silent clip |
+| 6 | Who was studied | Mostly children, brief lab tasks, only two adult samples | Simple icon or bar chart |
+| 7 | Takeaway | Treat it as a personal experiment, and keep the volume low | Text only |
+
+**Sketches:** [embed your sketches here]
+**Draft visualizations:** [embed your Datawrapper or Tableau charts here]
 
 # User research 
 
