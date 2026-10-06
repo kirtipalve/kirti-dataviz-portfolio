@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-**Topic change:** My Part I proposal was a personal Spotify listening story. For Part II I switched to the colors of noise (white, pink, brown) and focus because [your reason, one sentence].
+**Topic change:** My Part I proposal was a personal Spotify listening story. For Part II I switched to the colors of noise (white, pink, brown) and focus.
 
 **One-sentence summary:** [Draft to edit: Brown noise is everywhere as a focus aid, but the best review of the research found a small benefit only for people with ADHD symptoms, a slight cost for everyone else, and no studies of brown noise at all.]
 
