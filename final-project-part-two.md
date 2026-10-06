@@ -18,7 +18,9 @@
 | 6 | Who was studied | Mostly children, brief lab tasks, only two adult samples | Simple icon or bar chart |
 | 7 | Takeaway | Treat it as a personal experiment, and keep the volume low | Text only |
 
-**Sketches:** [embed your sketches here]
+**Sketches:**
+<img width="657" height="413" alt="Screenshot 2026-10-06 at 1 53 03 PM" src="https://github.com/user-attachments/assets/7054cca5-5985-4e9d-98ad-91e0106c5ee9" />
+
 **Draft visualizations:** [embed your Datawrapper or Tableau charts here]
 
 # User research 
