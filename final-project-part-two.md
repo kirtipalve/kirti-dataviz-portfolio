@@ -111,7 +111,6 @@ I showed the early storyboard and draft visualizations to three people who regul
 # References
 
 - Nigg, J. T., Bruton, A., Kozlowski, M. B., Johnstone, J. M., & Karalunas, S. L. (2024). *Systematic Review and Meta-Analysis: Do White Noise or Pink Noise Help With Task Performance in Youth With Attention-Deficit/Hyperactivity Disorder or With Elevated Attention Problems?* Journal of the American Academy of Child & Adolescent Psychiatry, 63(8), 778–788.
-- Nigg et al. systematic review and meta-analysis — study selection, effect sizes, population characteristics, and limitations.
 - Good Charts by Scott Berinato — Chapter 7: Persuasion or Manipulation
 - Audio examples and color-noise visualizations created for this project
 
