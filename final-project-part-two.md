@@ -20,9 +20,11 @@
 | 7 | Takeaway | Treat it as a personal experiment, and keep the volume low | Text only |
 
 **Sketches:**
+
 <img width="657" height="413" alt="Screenshot 2026-10-06 at 1 53 03 PM" src="https://github.com/user-attachments/assets/7054cca5-5985-4e9d-98ad-91e0106c5ee9" />
 
 **Draft visualizations:** 
+
 <img width="542" height="341" alt="Screenshot 2026-10-06 at 2 16 16 PM" src="https://github.com/user-attachments/assets/0843e0eb-ff4c-42e6-bb43-9e043d02d0ef" />
 <img width="557" height="332" alt="Screenshot 2026-10-06 at 2 16 30 PM" src="https://github.com/user-attachments/assets/b416f343-77f5-4d93-a2c1-b239097e80f4" />
 <img width="544" height="332" alt="Screenshot 2026-10-06 at 2 16 56 PM" src="https://github.com/user-attachments/assets/cc99bf0c-56ac-44bf-b37e-17029e1ff694" />
