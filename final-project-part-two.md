@@ -118,5 +118,3 @@ I showed the early storyboard and draft visualizations to three people who regul
 # AI acknowledgements
 
 AI assisted with organizing research notes, structuring the user research protocol, and brainstorming ways to communicate the research findings visually. The core story concept, interview execution, visualization choices, and interpretation of the research are my own.
-
-g the user research protocol, and organizing findings templates. The core story concept, interview execution, and data interpretation are my own. Interview data reflects actual feedback from four interviewees (anonymized per assignment guidelines).
