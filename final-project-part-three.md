@@ -44,7 +44,7 @@ Full references are on the Shorthand story. Additional sources used for this wri
 - Nigg, J. T., Bruton, A., Kozlowski, M. B., Johnstone, J. M., & Karalunas, S. L. (2024). Systematic review and meta-analysis: Do white noise or pink noise help with task performance in youth with attention-deficit/hyperactivity disorder or with elevated attention problems? Journal of the American Academy of Child & Adolescent Psychiatry, 63(8), 778-788. https://doi.org/10.1016/j.jaac.2023.12.014
 - Berinato, S. Good Charts, Chapter 7: Persuasion or manipulation? Harvard Business Review Press.
 
-Effect sizes, study counts and participant counts come from the abstract and Table 2 of Nigg et al. (2024). The hype figure comes from the TikTok #brownnoise hashtag page, accessed [date].
+Effect sizes, study counts and participant counts come from the abstract and Table 2 of Nigg et al. (2024). The hype figure comes from the TikTok #brownnoise hashtag page.
 
 ## AI acknowledgements
 
